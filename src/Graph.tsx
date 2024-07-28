@@ -10,6 +10,7 @@ interface IProps {
   data: ServerRespond[],
 }
 
+
 /**
  * Perspective library adds load to HTMLElement prototype.
  * This interface acts as a wrapper for Typescript compiler.
